@@ -4,10 +4,10 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="New York" />
+        <Weather defaultCity="Melbourne" />
         <footer>
-          This project is coded by Babisha Shrestha on{" "}
-          <a href="https://github.com/Babi1232/weather-app">
+          This project is coded by Shienny{" "}
+          <a href="https://github.com/Shieta/new-react-weather-app">
             {" "}
             Open-source on github
           </a>{" "}
